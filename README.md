@@ -23,4 +23,9 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
 
 
+## 📸 Altri progetti
+![Instagram Drone](https://www.instagram.com/360Viste/) – Riprese aeree con drone
+
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardo2405&show_icons=true&theme=radical)
