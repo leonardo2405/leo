@@ -24,7 +24,8 @@
 
 
 ## 📸 Altri progetti
-![Instagram Drone](https://www.instagram.com/360Viste/) – Riprese aeree con drone
+- [Instagram Drone](https://www.instagram.com/360Viste/) – Riprese aeree con drone
+
 
 
 
