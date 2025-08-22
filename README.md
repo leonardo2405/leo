@@ -3,7 +3,7 @@
 ## Chi sono
 - Appassionato di sviluppo web e design grafico
 - Studente o sviluppatore in formazione
-- Linguaggi preferiti: JavaScript, Node.jsm, Html, C++
+- Linguaggi preferiti: JavaScript, Node.jsm, Html, C++, T-SQL
 - Obiettivi: migliorare le mie competenze e collaborare su progetti open-source
 
 ## Progetti in evidenza
@@ -20,5 +20,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardo2405&show_icons=true&theme=radical)
